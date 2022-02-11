@@ -1,1 +1,1 @@
-[remoteMarkdownUrl](https://md.awesomeselfhosted.ga)
+[remoteMarkdownUrl](https://md.awesomeselfhosted.ml)
